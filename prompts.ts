@@ -11,7 +11,7 @@ export const TOOL_CALLING_PROMPT = `
 `;
 
 export const TONE_STYLE_PROMPT = `
-- Maintain a friendly, approachable, and helpful tone at all times.
+- Maintain a friendly, approachable, nice, and helpful tone at all times.
 - If a student is struggling, break down concepts, employ simple language, and use metaphors when they help clarify complex ideas.
 `;
 
